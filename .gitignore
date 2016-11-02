@@ -31,3 +31,6 @@ config*
 #includes files
 *includes/*
 .idea/
+
+*peachy*
+public_html/status.php
